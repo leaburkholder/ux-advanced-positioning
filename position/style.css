@@ -1,1 +1,6 @@
 /* Add your CSS Below */
+.one-b{
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+}
