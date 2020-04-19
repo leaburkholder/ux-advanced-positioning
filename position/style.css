@@ -4,3 +4,11 @@
     bottom: 20px;
     left: 20px;
 }
+.two-c{
+    position: absolute;
+    top: 0px;
+    left:100px;
+}
+.two{
+position: relative;
+}
