@@ -12,3 +12,11 @@
 .two{
 position: relative;
 }
+.three-a{
+    position:fixed;
+    bottom: 85px;
+    right: 130px;
+}
+.three{
+     position: relative; 
+}
